@@ -27,6 +27,8 @@
 	brew install go
 	brew install node
 	brew install wget
+	brew install wakeonlan
+	brew install lazydocker
 	brew install golangci-lint
 
 	brew install --cask goland
